@@ -1,0 +1,20 @@
+{
+  "name": "react-native-basic-components",
+  "version": "0.0.1",
+  "description": "A customized react native basic component module",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vincentsptang/react-native-basic-components"
+  },
+  "author": "Vincent Tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincentsptang/react-native-basic-components/issues"
+  },
+  "homepage": "https://github.com/vincentsptang/react-native-basic-components#readme"
+}
