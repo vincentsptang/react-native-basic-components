@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/vincentsptang/react-native-basic-components/issues"
   },
-  "homepage": "https://github.com/vincentsptang/react-native-basic-components#readme"
+  "homepage": "https://github.com/vincentsptang/react-native-basic-components#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.8",
+    "@types/react": "^19.1.8",
+    "eslint": "^9.28.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-native": "^5.0.0",
+    "prettier": "3.5.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "react-native": "^0.79.3"
+  }
 }
